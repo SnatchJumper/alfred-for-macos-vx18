@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Alfred for macOS automation with professional Automation for Alfred for macOS - focus mode and offline access. Featuring focus mode and offline access, it's the
 
 
 
